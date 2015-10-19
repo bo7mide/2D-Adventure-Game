@@ -1,0 +1,2511 @@
+fileFormatVersion: 2
+guid: 344ba0aa8e66b6e4d9a146a1aef8ee0e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Golem_0
+    21300002: Golem_1
+    21300004: Golem_2
+    21300006: Golem_3
+    21300008: Golem_4
+    21300010: Golem_5
+    21300012: Golem_6
+    21300014: Golem_7
+    21300016: Golem_8
+    21300018: Golem_9
+    21300020: Golem_10
+    21300022: Golem_11
+    21300024: Golem_12
+    21300026: Golem_13
+    21300028: Golem_14
+    21300030: Golem_15
+    21300032: Golem_16
+    21300034: Golem_17
+    21300036: Golem_18
+    21300038: Golem_19
+    21300040: Golem_20
+    21300042: Golem_21
+    21300044: Golem_22
+    21300046: Golem_23
+    21300048: Golem_24
+    21300050: Golem_25
+    21300052: Golem_26
+    21300054: Golem_27
+    21300056: Golem_28
+    21300058: Golem_29
+    21300060: Golem_30
+    21300062: Golem_31
+    21300064: Golem_32
+    21300066: Golem_33
+    21300068: Golem_34
+    21300070: Golem_35
+    21300072: Golem_36
+    21300074: Golem_37
+    21300076: Golem_38
+    21300078: Golem_39
+    21300080: Golem_40
+    21300082: Golem_41
+    21300084: Golem_42
+    21300086: Golem_43
+    21300088: Golem_44
+    21300090: Golem_45
+    21300092: Golem_46
+    21300094: Golem_47
+    21300096: Golem_48
+    21300098: Golem_49
+    21300100: Golem_50
+    21300102: Golem_51
+    21300104: Golem_52
+    21300106: Golem_53
+    21300108: Golem_54
+    21300110: Golem_55
+    21300112: Golem_56
+    21300114: Golem_57
+    21300116: Golem_58
+    21300118: Golem_59
+    21300120: Golem_60
+    21300122: Golem_61
+    21300124: Golem_62
+    21300126: Golem_63
+    21300128: Golem_64
+    21300130: Golem_65
+    21300132: Golem_66
+    21300134: Golem_67
+    21300136: Golem_68
+    21300138: Golem_69
+    21300140: Golem_70
+    21300142: Golem_71
+    21300144: Golem_72
+    21300146: Golem_73
+    21300148: Golem_74
+    21300150: Golem_75
+    21300152: Golem_76
+    21300154: Golem_77
+    21300156: Golem_78
+    21300158: Golem_79
+    21300160: Golem_80
+    21300162: Golem_81
+    21300164: Golem_82
+    21300166: Golem_83
+    21300168: Golem_84
+    21300170: Golem_85
+    21300172: Golem_86
+    21300174: Golem_87
+    21300176: Golem_88
+    21300178: Golem_89
+    21300180: Golem_90
+    21300182: Golem_91
+    21300184: Golem_92
+    21300186: Golem_93
+    21300188: Golem_94
+    21300190: Golem_95
+    21300192: Golem_96
+    21300194: Golem_97
+    21300196: Golem_98
+    21300198: Golem_99
+    21300200: Golem_100
+    21300202: Golem_101
+    21300204: Golem_102
+    21300206: Golem_103
+    21300208: Golem_104
+    21300210: Golem_105
+    21300212: Golem_106
+    21300214: Golem_107
+    21300216: Golem_108
+    21300218: Golem_109
+    21300220: Golem_110
+    21300222: Golem_111
+    21300224: Golem_112
+    21300226: Golem_113
+    21300228: Golem_114
+    21300230: Golem_115
+    21300232: Golem_116
+    21300234: Golem_117
+    21300236: Golem_118
+    21300238: Golem_119
+    21300240: Golem_120
+    21300242: Golem_121
+    21300244: Golem_122
+    21300246: Golem_123
+    21300248: Golem_124
+    21300250: Golem_125
+    21300252: Golem_126
+    21300254: Golem_127
+    21300256: Golem_128
+    21300258: Golem_129
+    21300260: Golem_130
+    21300262: Golem_131
+    21300264: Golem_132
+    21300266: Golem_133
+    21300268: Golem_134
+    21300270: Golem_135
+    21300272: Golem_136
+    21300274: Golem_137
+    21300276: Golem_138
+    21300278: Golem_139
+    21300280: Golem_140
+    21300282: Golem_141
+    21300284: Golem_142
+    21300286: Golem_143
+    21300288: Golem_144
+    21300290: Golem_145
+    21300292: Golem_146
+    21300294: Golem_147
+    21300296: Golem_148
+    21300298: Golem_149
+    21300300: Golem_150
+    21300302: Golem_151
+    21300304: Golem_152
+    21300306: Golem_153
+    21300308: Golem_154
+    21300310: Golem_155
+    21300312: Golem_156
+    21300314: Golem_157
+    21300316: Golem_158
+    21300318: Golem_159
+    21300320: Golem_160
+    21300322: Golem_161
+    21300324: Golem_162
+    21300326: Golem_163
+    21300328: Golem_164
+    21300330: Golem_165
+    21300332: Golem_166
+    21300334: Golem_167
+    21300336: Golem_168
+    21300338: Golem_169
+    21300340: Golem_170
+    21300342: Golem_171
+    21300344: Golem_172
+    21300346: Golem_173
+    21300348: Golem_174
+    21300350: Golem_175
+    21300352: Golem_176
+    21300354: Golem_177
+    21300356: Golem_178
+    21300358: Golem_179
+    21300360: Golem_180
+    21300362: Golem_181
+    21300364: Golem_182
+    21300366: Golem_183
+    21300368: Golem_184
+    21300370: Golem_185
+    21300372: Golem_186
+    21300374: Golem_187
+    21300376: Golem_188
+    21300378: Golem_189
+    21300380: Golem_190
+    21300382: Golem_191
+    21300384: Golem_192
+    21300386: Golem_193
+    21300388: Golem_194
+    21300390: Golem_195
+    21300392: Golem_196
+    21300394: Golem_197
+    21300396: Golem_198
+    21300398: Golem_199
+    21300400: Golem_200
+    21300402: Golem_201
+    21300404: Golem_202
+    21300406: Golem_203
+    21300408: Golem_204
+    21300410: Golem_205
+    21300412: Golem_206
+    21300414: Golem_207
+    21300416: Golem_208
+    21300418: Golem_209
+    21300420: Golem_210
+    21300422: Golem_211
+    21300424: Golem_212
+    21300426: Golem_213
+    21300428: Golem_214
+    21300430: Golem_215
+    21300432: Golem_216
+    21300434: Golem_217
+    21300436: Golem_218
+    21300438: Golem_219
+    21300440: Golem_220
+    21300442: Golem_221
+    21300444: Golem_222
+    21300446: Golem_223
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Golem_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1640
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1637
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1636
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1635
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1635
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1642
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1644
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1645
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_8
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1647
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_9
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1647
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_10
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1695
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_11
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1695
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_12
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1695
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_13
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1695
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_14
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1695
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_15
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1692
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1499
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1503
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1503
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_19
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1503
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1503
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1503
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1494
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_23
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1498
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_24
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1494
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_25
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1493
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_26
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1488
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_27
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1487
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1366
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1365
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1367
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1367
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1365
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1365
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_34
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1361
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_35
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1359
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_36
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1360
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_37
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1360
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_38
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1361
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_39
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1361
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_40
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1417
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_41
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1401
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_42
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1401
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_43
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1401
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_44
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1401
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1222
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1220
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1218
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1219
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1220
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_50
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1219
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_51
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1218
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_52
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1216
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_53
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1211
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_54
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1212
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_55
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1270
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_56
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1270
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_57
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_58
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1270
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_59
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_60
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1267
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1068
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1171
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1158
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1085
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_65
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1085
+        width: 114
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_66
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1125
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_67
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1082
+        width: 120
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_68
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1075
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_69
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1119
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_70
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1116
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1115
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_72
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1115
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_73
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_74
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1115
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_75
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1069
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_76
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1066
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_77
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1067
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_78
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1099
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_79
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1099
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_80
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1099
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_81
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1099
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_82
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1099
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1114
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_84
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1062
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_85
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1062
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_86
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1062
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_87
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1062
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_88
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1046
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_89
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1043
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_90
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1046
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_91
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1043
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_92
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 937
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_93
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1021
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_94
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 986
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_95
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 991
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_96
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1017
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_97
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1000
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_98
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1000
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_99
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1000
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_100
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1000
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_101
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1000
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_102
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 985
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_103
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_104
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_105
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 984
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_106
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 981
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_107
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_108
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 984
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_109
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 984
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_110
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 969
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_111
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 984
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_112
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_113
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 981
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_114
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_115
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_116
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_117
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_118
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 959
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_119
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 961
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_120
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 964
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_121
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 965
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_122
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 969
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_123
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 966
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_124
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 969
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_125
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 969
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_126
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 969
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_127
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 969
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_128
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 966
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_129
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 969
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_130
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 969
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_131
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 969
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_132
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 969
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_133
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 966
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_134
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 969
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_135
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 966
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_136
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 969
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_137
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 969
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_138
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 969
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_139
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 969
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_140
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 969
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_141
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 958
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_142
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 952
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_143
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 952
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_144
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 949
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_145
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 949
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_146
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 949
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_147
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 952
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_148
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 952
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_149
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 952
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_150
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 952
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_151
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 949
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_152
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 952
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_153
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 949
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_154
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 952
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_155
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 952
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_156
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 949
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_157
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 952
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_158
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 952
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_159
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 952
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_160
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_161
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 769
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_162
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 768
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_163
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 768
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_164
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 767
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_165
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 767
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_166
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 767
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_167
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 768
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_168
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 769
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_169
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 862
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_170
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 862
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_171
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 620
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_172
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 620
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_173
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 621
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_174
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 621
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_175
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 620
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_176
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 620
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_177
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 620
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_178
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 621
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_179
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 620
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_180
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 466
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_181
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 467
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_182
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 467
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_183
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 467
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_184
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 468
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_185
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 469
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_186
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 504
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_187
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 501
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_188
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 521
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_189
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 527
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_190
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 535
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_191
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 496
+        width: 127
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_192
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 504
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_193
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 507
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_194
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 498
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_195
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 502
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_196
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 494
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_197
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 310
+        width: 82
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_198
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 312
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_199
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 316
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_200
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 319
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_201
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 320
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_202
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 319
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_203
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 371
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_204
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 380
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_205
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 383
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_206
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 164
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 162
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 163
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_209
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 163
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_210
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 162
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_211
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 162
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_212
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 163
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_213
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 164
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_214
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 161
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_215
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_216
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 16
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_217
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 15
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_218
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 16
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_219
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 15
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_220
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 15
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_221
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 17
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_222
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 18
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Golem_223
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 16
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

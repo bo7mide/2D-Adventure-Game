@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: d388515db4acbd24da2df24aa7554648
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy_Knight_0
+    21300002: Enemy_Knight_1
+    21300004: Enemy_Knight_2
+    21300006: Enemy_Knight_3
+    21300008: Enemy_Knight_4
+    21300010: Enemy_Knight_5
+    21300012: Enemy_Knight_6
+    21300014: Enemy_Knight_7
+    21300016: Enemy_Knight_8
+    21300018: Enemy_Knight_9
+    21300020: Enemy_Knight_10
+    21300022: Enemy_Knight_11
+    21300024: Enemy_Knight_12
+    21300026: Enemy_Knight_13
+    21300028: Enemy_Knight_14
+    21300030: Enemy_Knight_15
+    21300032: Enemy_Knight_16
+    21300034: Enemy_Knight_17
+    21300036: Enemy_Knight_18
+    21300038: Enemy_Knight_19
+    21300040: Enemy_Knight_20
+    21300042: Enemy_Knight_21
+    21300044: Enemy_Knight_22
+    21300046: Enemy_Knight_23
+    21300048: Enemy_Knight_24
+    21300050: Enemy_Knight_25
+    21300052: Enemy_Knight_26
+    21300054: Enemy_Knight_27
+    21300056: Enemy_Knight_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy_Knight_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 236
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 235
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 236
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 235
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 234
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 234
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 233
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 188
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 185
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 186
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 187
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 186
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 186
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 146
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 142
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 138
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 140
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 139
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 71
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 96
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 55
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 109
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 61
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 98
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_25
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 57
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 21
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 56
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy_Knight_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

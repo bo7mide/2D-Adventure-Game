@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: f70003a0755c2f34d806fe0059d002e8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AutoEnnemi_0
+    21300002: AutoEnnemi_1
+    21300004: AutoEnnemi_2
+    21300006: AutoEnnemi_3
+    21300008: AutoEnnemi_4
+    21300010: AutoEnnemi_5
+    21300012: AutoEnnemi_6
+    21300014: AutoEnnemi_7
+    21300016: AutoEnnemi_8
+    21300018: AutoEnnemi_9
+    21300020: AutoEnnemi_10
+    21300022: AutoEnnemi_11
+    21300024: AutoEnnemi_12
+    21300026: AutoEnnemi_13
+    21300028: AutoEnnemi_14
+    21300030: AutoEnnemi_15
+    21300032: AutoEnnemi_16
+    21300034: AutoEnnemi_17
+    21300036: AutoEnnemi_18
+    21300038: AutoEnnemi_19
+    21300040: AutoEnnemi_20
+    21300042: AutoEnnemi_21
+    21300044: AutoEnnemi_22
+    21300046: AutoEnnemi_23
+    21300048: AutoEnnemi_24
+    21300050: AutoEnnemi_25
+    21300052: AutoEnnemi_26
+    21300054: AutoEnnemi_27
+    21300056: AutoEnnemi_28
+    21300058: AutoEnnemi_29
+    21300060: AutoEnnemi_30
+    21300062: AutoEnnemi_31
+    21300064: AutoEnnemi_32
+    21300066: AutoEnnemi_33
+    21300068: AutoEnnemi_34
+    21300070: AutoEnnemi_35
+    21300072: AutoEnnemi_36
+    21300074: AutoEnnemi_37
+    21300076: AutoEnnemi_38
+    21300078: AutoEnnemi_39
+    21300080: AutoEnnemi_40
+    21300082: AutoEnnemi_41
+    21300084: AutoEnnemi_42
+    21300086: AutoEnnemi_43
+    21300088: AutoEnnemi_44
+    21300090: AutoEnnemi_45
+    21300092: AutoEnnemi_46
+    21300094: AutoEnnemi_47
+    21300096: AutoEnnemi_48
+    21300098: AutoEnnemi_49
+    21300100: AutoEnnemi_50
+    21300102: AutoEnnemi_51
+    21300104: AutoEnnemi_52
+    21300106: AutoEnnemi_53
+    21300108: AutoEnnemi_54
+    21300110: AutoEnnemi_55
+    21300112: AutoEnnemi_56
+    21300114: AutoEnnemi_57
+    21300116: AutoEnnemi_58
+    21300118: AutoEnnemi_59
+    21300120: AutoEnnemi_60
+    21300122: AutoEnnemi_61
+    21300124: AutoEnnemi_62
+    21300126: AutoEnnemi_63
+    21300128: AutoEnnemi_64
+    21300130: AutoEnnemi_65
+    21300132: AutoEnnemi_66
+    21300134: AutoEnnemi_67
+    21300136: AutoEnnemi_68
+    21300138: AutoEnnemi_69
+    21300140: AutoEnnemi_70
+    21300142: AutoEnnemi_71
+    21300144: AutoEnnemi_72
+    21300146: AutoEnnemi_73
+    21300148: AutoEnnemi_74
+    21300150: AutoEnnemi_75
+    21300152: AutoEnnemi_76
+    21300154: AutoEnnemi_77
+    21300156: AutoEnnemi_78
+    21300158: AutoEnnemi_79
+    21300160: AutoEnnemi_80
+    21300162: AutoEnnemi_81
+    21300164: AutoEnnemi_82
+    21300166: AutoEnnemi_83
+    21300168: AutoEnnemi_84
+    21300170: AutoEnnemi_85
+    21300172: AutoEnnemi_86
+    21300174: AutoEnnemi_87
+    21300176: AutoEnnemi_88
+    21300178: AutoEnnemi_89
+    21300180: AutoEnnemi_90
+    21300182: AutoEnnemi_91
+    21300184: AutoEnnemi_92
+    21300186: AutoEnnemi_93
+    21300188: AutoEnnemi_94
+    21300190: AutoEnnemi_95
+    21300192: AutoEnnemi_96
+    21300194: AutoEnnemi_97
+    21300196: AutoEnnemi_98
+    21300198: AutoEnnemi_99
+    21300200: AutoEnnemi_100
+    21300202: AutoEnnemi_101
+    21300204: AutoEnnemi_102
+    21300206: AutoEnnemi_103
+    21300208: AutoEnnemi_104
+    21300210: AutoEnnemi_105
+    21300212: AutoEnnemi_106
+    21300214: AutoEnnemi_107
+    21300216: AutoEnnemi_108
+    21300218: AutoEnnemi_109
+    21300220: AutoEnnemi_110
+    21300222: AutoEnnemi_111
+    21300224: AutoEnnemi_112
+    21300226: AutoEnnemi_113
+    21300228: AutoEnnemi_114
+    21300230: AutoEnnemi_115
+    21300232: AutoEnnemi_116
+    21300234: AutoEnnemi_117
+    21300236: AutoEnnemi_118
+    21300238: AutoEnnemi_119
+    21300240: AutoEnnemi_120
+    21300242: AutoEnnemi_121
+    21300244: AutoEnnemi_122
+    21300246: AutoEnnemi_123
+    21300248: AutoEnnemi_124
+    21300250: AutoEnnemi_125
+    21300252: AutoEnnemi_126
+    21300254: AutoEnnemi_127
+    21300256: AutoEnnemi_128
+    21300258: AutoEnnemi_129
+    21300260: AutoEnnemi_130
+    21300262: AutoEnnemi_131
+    21300264: AutoEnnemi_132
+    21300266: AutoEnnemi_133
+    21300268: AutoEnnemi_134
+    21300270: AutoEnnemi_135
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AutoEnnemi_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 820
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 820
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 819
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 820
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 811
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 808
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 818
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 807
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 807
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 808
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 818
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 813
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 807
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 807
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_14
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 809
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 809
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_16
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 814
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 815
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_18
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 815
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 815
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_20
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 814
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_21
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 814
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 735
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 731
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 731
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 731
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 732
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 736
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 733
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 724
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 720
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 721
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 723
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_33
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 723
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 724
+        width: 107
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_35
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 722
+        width: 131
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_36
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 729
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 662
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_39
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 664
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 662
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 662
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 662
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 663
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 663
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 661
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_46
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 662
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_47
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 660
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_48
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 660
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 660
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_50
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 660
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_51
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 660
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_52
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 660
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_53
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 615
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 600
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 600
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 601
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 600
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_58
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 600
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 601
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 603
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 602
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 601
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 599
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 599
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_66
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 600
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_67
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 604
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 602
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_69
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 603
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 528
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 528
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 526
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 526
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 529
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 529
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_76
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 529
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 529
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_78
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 529
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_79
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 530
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_80
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 530
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_81
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 532
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 465
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_83
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 465
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_84
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 478
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 464
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_87
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 464
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_88
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 465
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_89
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 464
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_90
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 464
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_91
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 464
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_93
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 393
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 388
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 381
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_96
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 386
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_97
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 382
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_98
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 385
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_99
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 385
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_100
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 389
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_101
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 393
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_102
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 394
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_103
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 393
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 313
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_105
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 313
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 313
+        width: 101
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_107
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 337
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_108
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 313
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_109
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 139
+        width: 319
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_110
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 321
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_111
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_112
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 233
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_114
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 237
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_115
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 230
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_116
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 230
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 229
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_118
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 232
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_119
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 237
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_120
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 232
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_121
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 235
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_122
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 249
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_123
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 261
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_124
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 264
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_125
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_126
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_127
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 119
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_128
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 120
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 118
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_130
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 117
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_131
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 117
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_132
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 116
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_133
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_134
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AutoEnnemi_135
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 6
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

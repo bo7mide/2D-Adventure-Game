@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: c2a3b86a240d3a64a8d9e8f28683caf3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wizard_0
+    21300002: Wizard_1
+    21300004: Wizard_2
+    21300006: Wizard_3
+    21300008: Wizard_4
+    21300010: Wizard_5
+    21300012: Wizard_6
+    21300014: Wizard_7
+    21300016: Wizard_8
+    21300018: Wizard_9
+    21300020: Wizard_10
+    21300022: Wizard_11
+    21300024: Wizard_12
+    21300026: Wizard_13
+    21300028: Wizard_14
+    21300030: Wizard_15
+    21300032: Wizard_16
+    21300034: Wizard_17
+    21300036: Wizard_18
+    21300038: Wizard_19
+    21300040: Wizard_20
+    21300042: Wizard_21
+    21300044: Wizard_22
+    21300046: Wizard_23
+    21300048: Wizard_24
+    21300050: Wizard_25
+    21300052: Wizard_26
+    21300054: Wizard_27
+    21300056: Wizard_28
+    21300058: Wizard_29
+    21300060: Wizard_30
+    21300062: Wizard_31
+    21300064: Wizard_32
+    21300066: Wizard_33
+    21300068: Wizard_34
+    21300070: Wizard_35
+    21300072: Wizard_36
+    21300074: Wizard_37
+    21300076: Wizard_38
+    21300078: Wizard_39
+    21300080: Wizard_40
+    21300082: Wizard_41
+    21300084: Wizard_42
+    21300086: Wizard_43
+    21300088: Wizard_44
+    21300090: Wizard_45
+    21300092: Wizard_46
+    21300094: Wizard_47
+    21300096: Wizard_48
+    21300098: Wizard_49
+    21300100: Wizard_50
+    21300102: Wizard_51
+    21300104: Wizard_52
+    21300106: Wizard_53
+    21300108: Wizard_54
+    21300110: Wizard_55
+    21300112: Wizard_56
+    21300114: Wizard_57
+    21300116: Wizard_58
+    21300118: Wizard_59
+    21300120: Wizard_60
+    21300122: Wizard_61
+    21300124: Wizard_62
+    21300126: Wizard_63
+    21300128: Wizard_64
+    21300130: Wizard_65
+    21300132: Wizard_66
+    21300134: Wizard_67
+    21300136: Wizard_68
+    21300138: Wizard_69
+    21300140: Wizard_70
+    21300142: Wizard_71
+    21300144: Wizard_72
+    21300146: Wizard_73
+    21300148: Wizard_74
+    21300150: Wizard001
+    21300152: Wizard011
+    21300154: Wizard1
+    21300156: Wizard2
+    21300158: Wizard3
+    21300160: Wizard4
+    21300162: Wizard5
+    21300164: Wizard6
+    21300166: Wizard7
+    21300168: Wizard8
+    21300170: Wizard9
+    21300172: Wizard_86
+    21300174: Wizard_87
+    21300176: Wizard_88
+    21300178: Wizard_89
+    21300180: Wizard_90
+    21300182: Wizard_91
+    21300184: Wizard_92
+    21300186: Wizard_93
+    21300188: Wizard_94
+    21300190: Wizard_95
+    21300192: Wizard_96
+    21300194: Wizard_97
+    21300196: Wizard_98
+    21300198: Wizard_99
+    21300200: Wizard_100
+    21300202: Wizard_101
+    21300204: Wizard_102
+    21300206: Wizard_103
+    21300208: Wizard_104
+    21300210: Wizard_105
+    21300212: Wizard_106
+    21300214: Wizard_107
+    21300216: Wizard_108
+    21300218: Wizard_109
+    21300220: Wizard_110
+    21300222: Wizard_111
+    21300224: Wizard_112
+    21300226: Wizard01
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wizard_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 663
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 664
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 664
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 665
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 665
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 664
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 664
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 664
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 663
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 663
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 663
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 604
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 606
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 607
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 606
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 606
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 606
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 605
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 605
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 607
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 607
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 608
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 550
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 550
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 550
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 549
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 550
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 550
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 549
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 549
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 500
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 499
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 499
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 499
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 499
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 500
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 501
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_37
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 501
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 502
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 480
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 430
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 431
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 430
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 430
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 430
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 431
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 432
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 380
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 377
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 380
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 325
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_52
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 328
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 329
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 330
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 331
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 332
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 331
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 331
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_59
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 330
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_60
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 330
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_61
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 330
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 267
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 267
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 269
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_65
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 269
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_66
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 270
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 269
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_68
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 270
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_69
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 271
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_70
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 272
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_71
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 272
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_72
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 272
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 205
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 206
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard001
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 206
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard01
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 207
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 207
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 208
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 208
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 154
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 159
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 160
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 160
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 160
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_87
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 103
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_88
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_89
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 103
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 104
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 104
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_93
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 60
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 60
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_95
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 60
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 59
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 59
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_98
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 59
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_99
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 59
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_100
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 60
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_101
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 60
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_102
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 60
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_104
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_106
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 15
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_107
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 14
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 14
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_109
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 14
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_110
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 14
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_111
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 15
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wizard_112
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 15
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

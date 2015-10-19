@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 54a47f3098131a249b7c58c49401ae26
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: iceattack_0
+    21300002: iceattack_1
+    21300004: iceattack_2
+    21300006: iceattack_3
+    21300008: iceattack_4
+    21300010: iceattack_5
+    21300012: iceattack_6
+    21300014: iceattack_7
+    21300016: iceattack_8
+    21300018: ice_spell
+    21300020: iceattack_10
+    21300022: iceattack_11
+    21300024: iceattack_12
+    21300026: iceattack_13
+    21300028: iceattack_14
+    21300030: iceattack_15
+    21300032: iceattack_16
+    21300034: iceattack_17
+    21300036: iceattack_18
+    21300038: iceattack_19
+    21300040: iceattack_20
+    21300042: iceattack_21
+    21300044: iceattack_22
+    21300046: iceattack_23
+    21300048: iceattack_24
+    21300050: iceattack_25
+    21300052: iceattack_26
+    21300054: iceattack_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: iceattack_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 94
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 94
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 94
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 95
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 59
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 58
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 55
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ice_spell
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 52
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 55
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 56
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 58
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 56
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 56
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 10
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_25
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 10
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceattack_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
